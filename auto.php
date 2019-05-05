@@ -8,7 +8,7 @@
 
 <!--PHP SCRIPT--->
 <?php 
-require_once "dataBase/db.php";
+require_once "db.php";
 
 function auto() {
 	if(isset($_POST['sub'])) {
